@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karim Hazem</h1>
 <h3 align="center">A Machine Learning Engineer From Egypt</h3>
-data:
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0karim0&label=Profile%20views&color=0e75b6&style=flat" alt="0karim0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0karim0" alt="0karim0" /></a> </p>
@@ -11,10 +11,10 @@ data:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karim hazem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karim hazem" height="30" width="40" /></a>
-<a href="https://kaggle.com/karim hazem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="karim hazem" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/karim-hazem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="karim-hazem" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karimhazem321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karimhazem321" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/karim-hazem-28924822b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karim-hazem-28924822b/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/karimhazem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/karimhazem" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/karim-hazem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/karim-hazem" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/karimhazem321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/karimhazem321/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
